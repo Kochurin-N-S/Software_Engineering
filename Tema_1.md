@@ -34,6 +34,8 @@
 
 <img width="438" height="129" alt="image" src="https://github.com/user-attachments/assets/928d9d91-2ca6-45ab-9bcf-ddc09495b09b" />
 
+<img width="424" height="296" alt="image" src="https://github.com/user-attachments/assets/230a77e7-658f-4e48-b402-57e45f07285d" />
+
 
 ## 2.3. Создание нового репозитория
 
