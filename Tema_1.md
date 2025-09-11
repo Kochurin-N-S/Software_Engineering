@@ -76,11 +76,21 @@
 
 ## 2.11. Возвращение файла к предыдущему (определенному) состоянию
 
+<img width="709" height="189" alt="image" src="https://github.com/user-attachments/assets/3400da11-d99e-48ef-8efa-9b22e626e0cd" />
 
 ## 2.12. Возвращение к предыдущему коммиту
 
+<img width="681" height="83" alt="image" src="https://github.com/user-attachments/assets/cf66e1a7-ebfa-495e-bae8-9f872e2c62c0" />
+
 ## 2.13. Исправление коммита
+
+<img width="678" height="453" alt="image" src="https://github.com/user-attachments/assets/e1856c5e-1ed3-4308-ada6-8abc427f5c6c" />
 
 ## 2.14. Разрешение конфликтов при слиянии
 
+<img width="554" height="126" alt="image" src="https://github.com/user-attachments/assets/ff46e00a-896b-49ea-aa0c-e2359b0701b3" />
+
+
 ## 2.15. Настройка .gitignore
+
+<img width="554" height="171" alt="image" src="https://github.com/user-attachments/assets/49155fea-cc5b-4c22-8707-e89ae7572990" />
