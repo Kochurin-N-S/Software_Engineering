@@ -56,7 +56,7 @@
 
 ## 2.6. Подключение к удаленному репозиторию
 
-
+<img width="691" height="99" alt="image" src="https://github.com/user-attachments/assets/2b91b226-da24-4ace-ab77-10a6007f3b02" />
 
 ## 2.7. Ветвление
 
