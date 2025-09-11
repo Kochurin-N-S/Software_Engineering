@@ -64,10 +64,14 @@
 
 ## 2.8. Особенности применения «Фетч»
 
+<img width="700" height="242" alt="image" src="https://github.com/user-attachments/assets/cf58dfaa-2f84-472c-b4c1-dc871fe1730f" />
 
 ## 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
 
+<img width="698" height="161" alt="image" src="https://github.com/user-attachments/assets/3b81270c-b138-4367-bc80-3d29a2eceaef" />
+
 ## 2.10. Отслеживание изменений в коммитах
+
 
 ## 2.11. Возвращение файла к предыдущему (определенному) состоянию
 
