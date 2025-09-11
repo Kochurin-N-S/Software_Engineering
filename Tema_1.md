@@ -32,6 +32,9 @@
 
 ## 2.2. Настройка
 
+<img width="438" height="129" alt="image" src="https://github.com/user-attachments/assets/928d9d91-2ca6-45ab-9bcf-ddc09495b09b" />
+
+
 ## 2.3. Создание нового репозитория
 
 ## 2.4. Подготовка файлов
