@@ -36,14 +36,27 @@
 
 <img width="424" height="296" alt="image" src="https://github.com/user-attachments/assets/230a77e7-658f-4e48-b402-57e45f07285d" />
 
-
 ## 2.3. Создание нового репозитория
+
+<img width="473" height="140" alt="image" src="https://github.com/user-attachments/assets/70da91c2-a4e7-4f8a-9b5f-3cabcd0670b8" />
 
 ## 2.4. Подготовка файлов
 
+<img width="479" height="295" alt="image" src="https://github.com/user-attachments/assets/320ad7ac-1283-42f6-baba-543d918d1daa" />
+
 ## 2.5. Фиксация изменений
 
+<img width="485" height="183" alt="image" src="https://github.com/user-attachments/assets/dcf2f8b2-e7a4-4dc8-86d5-9b0bd4506c1c" />
+
+<img width="526" height="186" alt="image" src="https://github.com/user-attachments/assets/aefb5c47-aa4e-4252-8b6d-672ad432b694" />
+
+<img width="524" height="126" alt="image" src="https://github.com/user-attachments/assets/f3a4dd2f-6357-4fec-858b-4fc63a465c9b" />
+
+<img width="523" height="186" alt="image" src="https://github.com/user-attachments/assets/a7e88078-543d-4e74-bc01-c4ff776348db" />
+
 ## 2.6. Подключение к удаленному репозиторию
+
+
 
 ## 2.7. Ветвление
 
