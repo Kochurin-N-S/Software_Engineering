@@ -39,8 +39,8 @@ else:
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/1.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/1.2.png)
+<img width="762" height="607" alt="image" src="https://github.com/user-attachments/assets/65e70e11-c374-4a61-9460-3bfc7e64ca03" />
+
 
 ### Выводы
 
@@ -66,8 +66,8 @@ else:
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/2.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/2.2.png)
+<img width="758" height="609" alt="image" src="https://github.com/user-attachments/assets/e9a5f755-49b7-4a7e-8567-d5bee35cf5b9" />
+
 
 ### Выводы
 
@@ -89,8 +89,8 @@ else:
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/3.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/3.2.png)
+<img width="758" height="606" alt="image" src="https://github.com/user-attachments/assets/228175f3-5344-49fc-b079-19b021556bdf" />
+
 
 ### Выводы 
 
@@ -114,8 +114,8 @@ else:
 ```
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/4.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/4.2.png)
+<img width="760" height="606" alt="image" src="https://github.com/user-attachments/assets/ac92f84f-ef0a-410a-9c5c-988e09ea7e8c" />
+
 
 ### Выводы 
 Эта программа является усложненной версией предыдущей. В ней добавляется дополнительный блок проверки переменной на ее четность. Это происходит с помощью математического оператора `%`, который возвращает остаток от деления числа a на число b
@@ -141,8 +141,8 @@ for i in range(10):
 ```
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/5.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/5.2.png)
+<img width="758" height="844" alt="image" src="https://github.com/user-attachments/assets/b27b1a6d-1565-456b-a63d-04e31ef96d73" />
+
 
 ### Выводы 
 
@@ -167,8 +167,8 @@ else:
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/6.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/6.2.png)
+<img width="731" height="558" alt="image" src="https://github.com/user-attachments/assets/3a80b41e-6633-4a7c-b8a9-4c2bd45e1586" />
+
 
 ### Выводы 
 
@@ -188,8 +188,8 @@ for i in range(len(string) -1 , -1, -1):
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/7.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/7.2.png)
+<img width="726" height="335" alt="image" src="https://github.com/user-attachments/assets/4dd79a83-851f-44ca-9d62-0be7a9e1942b" />
+
 
 ### Выводы 
 
@@ -216,8 +216,8 @@ while value > 0:
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/8.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/8.2.png)
+<img width="727" height="1063" alt="image" src="https://github.com/user-attachments/assets/89c9beea-1cef-475c-91e4-2f04f47cd0f8" />
+
 
 ### Выводы 
 Цикл повторяется до тех пор, пока значение `value` больше 0. С каждой итерацией `value` уменьшается на 1. Если `value` четное, то оно выводится на экран. Если `value` без остатка делится на 10, то результат `value // 10` выводится в консоль.
@@ -241,8 +241,8 @@ print(value)
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/9.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/9.2.png)
+<img width="729" height="403" alt="image" src="https://github.com/user-attachments/assets/bd455513-6589-4932-ae2f-5577ab004e1a" />
+
 
 ### Выводы 
 
@@ -267,8 +267,8 @@ else:
 ```
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/10.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/lab/10.2.png)
+<img width="727" height="411" alt="image" src="https://github.com/user-attachments/assets/a2b7309c-fde6-4097-a61d-48c758cc45fd" />
+
 
 ### Выводы 
 
