@@ -290,8 +290,8 @@ print(num)
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/1.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/1.2.png)
+<img width="466" height="409" alt="image" src="https://github.com/user-attachments/assets/19273716-f311-4f24-af00-5383dc06bb9f" />
+
 
 ### Выводы
 
@@ -310,8 +310,8 @@ for i in range(len(line)-1, -1, -1):
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/2.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/2.2.png)
+<img width="469" height="560" alt="image" src="https://github.com/user-attachments/assets/286c0c83-8efd-4bd7-a286-9720ac1c0df1" />
+
 
 ### Выводы 
 
@@ -333,8 +333,8 @@ else: print("Число не подходит!")
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/3.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/3.2.png)
+<img width="466" height="556" alt="image" src="https://github.com/user-attachments/assets/ce715cf4-d6d5-463f-8426-a6b11eeb6dcf" />
+
 
 ### Выводы 
 
@@ -373,8 +373,8 @@ line_info("aeiou end")
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/4.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/4.2.png)
+<img width="766" height="1163" alt="image" src="https://github.com/user-attachments/assets/8d08b9d1-67f5-46ba-b04c-c40c231fd302" />
+
 
 ## Выводы
 
@@ -405,8 +405,8 @@ print(string+memory)
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/5.1.png)
-![](https://github.com/zhabii/SoftwareEngineering/blob/Tema_3/pics/sam/5.2.png)
+<img width="562" height="739" alt="image" src="https://github.com/user-attachments/assets/0b1bab96-4520-40de-85b5-47ed78b7aca8" />
+
 
 ### Выводы 
 
