@@ -1,4 +1,0 @@
-```Python
-
-print('Hello\nWorld')
-```
