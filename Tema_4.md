@@ -37,7 +37,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/1.png)
 
 ### Выводы
 
@@ -59,7 +58,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/2.png)
 
 ### Выводы
 
@@ -84,7 +82,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/3.png)
 
 ### Выводы 
 
@@ -108,7 +105,6 @@ print(main(1, 2, 3, 4, 5))
 ```
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/4.png)
 
 ### Выводы 
 Функция `main()` принимает неизвестное число аргументов с помощью использования `*args`. В зависимости от количества и значений входных данных функция генерирует и возвращает некоторое число
@@ -138,8 +134,6 @@ main(**my_dict)
 ```
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/5.png)
-
 ### Выводы 
 
 `**kwargs` позволяет передать функции неизвестное заранее количество аргументов в виде словаря. С помощью `for` цикла и метода `items()` мы проходимся по парам ключ-значение в `kwargs`
@@ -163,7 +157,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/6.png)
 
 ### Выводы 
 
@@ -188,7 +181,7 @@ def print_hello():
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/7.png)
+)
 
 ### Выводы 
 
@@ -214,7 +207,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/8.png)
 
 ### Выводы 
 
@@ -247,7 +239,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/9.png)
 
 ### Выводы 
 С помощью ключевого слова `import`  из модуля `datetime` импортируются функции `datetime` и `timedalta`, которые используются для работы с датой и временем. Пользователь вводит `n` количество дней и получает номер дня недели через `n` дней. 
@@ -281,8 +272,6 @@ if __name__ == '__main__':
     print(result)
 ```
 ### Результат
-
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/lab/10.png)
 
 ### Выводы 
 
@@ -322,7 +311,6 @@ if __name__ == '__main__': #точка входа в программу
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/sam/1.png)
 
 ### Выводы
 
@@ -353,7 +341,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/sam/2.png)
 
 ### Выводы 
 
@@ -376,7 +363,6 @@ for i in range(5):
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/sam/3.png)
 
 ### Выводы 
 
@@ -401,7 +387,6 @@ if __name__ == '__main__':
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/sam/4.png)
 
 ## Выводы
 
@@ -430,7 +415,6 @@ def triangle_area(a, b):
 
 ### Результат
 
-![](https://github.com/zhabii/SoftwareEngineering/blob/tema_4/pics/sam/5.png)
 
 ### Выводы 
 
