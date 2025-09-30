@@ -108,6 +108,7 @@ print(main(1, 2, 3, 4, 5))
 ```
 ### Результат
 
+<img width="587" height="596" alt="image" src="https://github.com/user-attachments/assets/dec7036e-d27e-4ef7-8f65-dc9e796f8ae0" />
 
 ### Выводы 
 Функция `main()` принимает неизвестное число аргументов с помощью использования `*args`. В зависимости от количества и значений входных данных функция генерирует и возвращает некоторое число
@@ -137,6 +138,8 @@ main(**my_dict)
 ```
 ### Результат
 
+<img width="695" height="819" alt="image" src="https://github.com/user-attachments/assets/ff566b6d-7a7d-4423-b1ce-f02185afe995" />
+
 ### Выводы 
 
 `**kwargs` позволяет передать функции неизвестное заранее количество аргументов в виде словаря. С помощью `for` цикла и метода `items()` мы проходимся по парам ключ-значение в `kwargs`
@@ -160,6 +163,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="695" height="818" alt="image" src="https://github.com/user-attachments/assets/380bc0d5-1f67-45bf-83bb-ca2ea9045b2a" />
 
 ### Выводы 
 
@@ -184,7 +188,7 @@ def print_hello():
 
 ### Результат
 
-)
+<img width="1239" height="744" alt="image" src="https://github.com/user-attachments/assets/d11701c1-c660-4295-89d1-ec6c8d1a6b35" />
 
 ### Выводы 
 
@@ -210,6 +214,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="597" height="678" alt="image" src="https://github.com/user-attachments/assets/2bc91658-f38f-431a-9435-625611883c1b" />
 
 ### Выводы 
 
@@ -242,6 +247,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="582" height="638" alt="image" src="https://github.com/user-attachments/assets/17c58328-6ce7-46a6-ac25-e41cfc72888c" />
 
 ### Выводы 
 С помощью ключевого слова `import`  из модуля `datetime` импортируются функции `datetime` и `timedalta`, которые используются для работы с датой и временем. Пользователь вводит `n` количество дней и получает номер дня недели через `n` дней. 
@@ -275,6 +281,8 @@ if __name__ == '__main__':
     print(result)
 ```
 ### Результат
+
+<img width="582" height="722" alt="image" src="https://github.com/user-attachments/assets/e78e6351-a20b-47bb-955f-346af8436d11" />
 
 ### Выводы 
 
@@ -314,6 +322,7 @@ if __name__ == '__main__': #точка входа в программу
 
 ### Результат
 
+<img width="904" height="956" alt="image" src="https://github.com/user-attachments/assets/81e4cc88-920e-4997-bb51-43a8343d8a03" />
 
 ### Выводы
 
@@ -344,6 +353,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="788" height="680" alt="image" src="https://github.com/user-attachments/assets/0b94b972-1b79-4c8f-865b-a7788d383885" />
 
 ### Выводы 
 
@@ -366,6 +376,7 @@ for i in range(5):
 
 ### Результат
 
+<img width="851" height="683" alt="image" src="https://github.com/user-attachments/assets/bee50bae-2f1e-4607-bec4-9f4f83b1a634" />
 
 ### Выводы 
 
@@ -390,6 +401,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="715" height="632" alt="image" src="https://github.com/user-attachments/assets/849b8caf-32ff-4cca-84ec-1d41eba3e8cb" />
 
 ## Выводы
 
@@ -418,6 +430,7 @@ def triangle_area(a, b):
 
 ### Результат
 
+<img width="1076" height="839" alt="image" src="https://github.com/user-attachments/assets/3fc8db25-3c34-40a8-85ae-4440693036a1" />
 
 ### Выводы 
 
