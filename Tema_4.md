@@ -37,6 +37,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="504" height="592" alt="image" src="https://github.com/user-attachments/assets/02f1faf0-f8c8-4d31-a1fd-647702d32ebf" />
 
 ### Выводы
 
@@ -58,6 +59,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="584" height="592" alt="image" src="https://github.com/user-attachments/assets/c4338af2-2277-4bb4-bace-080446b4b169" />
 
 ### Выводы
 
