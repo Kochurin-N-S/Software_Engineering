@@ -84,6 +84,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="590" height="594" alt="image" src="https://github.com/user-attachments/assets/6992b05c-bcb9-4978-a473-584e90db379c" />
 
 ### Выводы 
 
