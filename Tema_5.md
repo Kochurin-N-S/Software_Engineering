@@ -47,6 +47,7 @@ print('3', set_1.difference(set_2))
 
 ### Результат
 
+<img width="845" height="835" alt="image" src="https://github.com/user-attachments/assets/818d188a-322d-426b-b974-a717edaf1445" />
 
 ### Выводы
 
@@ -73,6 +74,7 @@ add_elms(my_frozen)
 
 ### Результат
 
+<img width="800" height="648" alt="image" src="https://github.com/user-attachments/assets/d61fb3f5-2073-4e20-8698-129928fc735b" />
 
 ### Выводы
 
@@ -94,6 +96,7 @@ print(replace(my_list))
 
 ### Результат
 
+<img width="795" height="575" alt="image" src="https://github.com/user-attachments/assets/b60cb2ff-4357-47b9-a646-9986d0d3b76d" />
 
 ### Выводы 
 
@@ -110,6 +113,7 @@ print(my_list[2:6])
 ```
 ### Результат
 
+<img width="795" height="571" alt="image" src="https://github.com/user-attachments/assets/5bc6d55f-7d0d-4bbc-a313-d9d8716503c6" />
 
 ### Выводы 
 
@@ -134,6 +138,7 @@ print(useless([int(random.random() * 100) for i in range(5) ]))
 ```
 ### Результат
 
+<img width="799" height="593" alt="image" src="https://github.com/user-attachments/assets/84252a65-9798-4a8a-9b27-c7b352cb6c07" />
 
 ### Выводы 
 
@@ -154,6 +159,7 @@ print('иван - ', ivan)
 
 ### Результат
 
+<img width="803" height="600" alt="image" src="https://github.com/user-attachments/assets/de450dfd-dc44-4b5c-ac5d-a6ae3d8ebb61" />
 
 ### Выводы 
 
@@ -178,6 +184,7 @@ print(f'новый список - {a}')
 
 ### Результат
 
+<img width="894" height="670" alt="image" src="https://github.com/user-attachments/assets/39c4ff4d-c231-4972-9821-31989e652d32" />
 
 ### Выводы 
 
@@ -207,6 +214,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="898" height="671" alt="image" src="https://github.com/user-attachments/assets/db62d397-3037-4d7d-9fc1-a72185d0b736" />
 
 ### Выводы 
 
@@ -238,6 +246,7 @@ if __name__ == '__main__':
 
 ### Результат
 
+<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/7123314d-323a-4777-9c89-a28e07b28b2f" />
 
 ### Выводы 
  
@@ -255,6 +264,7 @@ print(my_list[::-1])
 ```
 ### Результат
 
+<img width="895" height="672" alt="image" src="https://github.com/user-attachments/assets/dbb8b475-3234-434b-9532-647e8dd5de30" />
 
 ### Выводы 
 
@@ -296,6 +306,7 @@ print(f'больше всего посещений у работника {check_
 
 ### Результат
 
+<img width="894" height="864" alt="image" src="https://github.com/user-attachments/assets/0fa1f006-70a1-4bf7-9f45-3d4900e5675e" />
 
 ### Выводы
 
@@ -322,6 +333,7 @@ print(f'все результаты с десятого - {results[9:]}') #ин�
 
 ### Результат
 
+<img width="893" height="614" alt="image" src="https://github.com/user-attachments/assets/12e48851-c2dc-4b76-b16a-e38394ce7874" />
 
 ### Выводы 
 
@@ -354,6 +366,7 @@ print(f'с максимальными - {triangle_max_sides}')
 
 ### Результат
 
+<img width="896" height="695" alt="image" src="https://github.com/user-attachments/assets/a8ea416d-3573-4716-9ff6-f6d36a614459" />
 
 ### Выводы 
 
@@ -389,6 +402,7 @@ print(replace_assessments(list3))
 
 ### Результат
 
+<img width="895" height="795" alt="image" src="https://github.com/user-attachments/assets/7b9590c1-b2db-43d2-bcf9-07de5f057cdc" />
 
 ## Выводы
 
@@ -424,6 +438,7 @@ print(make_set(list_3))
 
 ### Результат
 
+<img width="895" height="788" alt="image" src="https://github.com/user-attachments/assets/215decba-39c1-4866-99fb-d00d274a3083" />
 
 ### Выводы 
 
