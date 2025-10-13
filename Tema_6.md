@@ -45,6 +45,7 @@ print(key, access)
 
 ### Результат
 
+<img width="791" height="739" alt="image" src="https://github.com/user-attachments/assets/091c886e-9082-427d-aa66-588cf2531e47" />
 
 ### Выводы
 
@@ -72,6 +73,7 @@ pprint(my_dict)
 
 ### Результат
 
+<img width="655" height="761" alt="image" src="https://github.com/user-attachments/assets/10f4dfcf-d681-4aed-bb53-6fe592a22981" />
 
 ### Выводы
 
@@ -91,6 +93,7 @@ print(list(result))
 
 ### Результат
 
+<img width="682" height="550" alt="image" src="https://github.com/user-attachments/assets/ac6e94f3-3b84-4e10-8921-fae0f6ecf5e7" />
 
 ### Выводы 
 
@@ -113,6 +116,7 @@ show_personal_info(*bob)
 ```
 ### Результат
 
+<img width="712" height="632" alt="image" src="https://github.com/user-attachments/assets/ee7cecbb-16c8-4930-b91d-0bd234e3deb5" />
 
 ### Выводы 
 
@@ -137,6 +141,7 @@ if __name__ == '__main__':
 ```
 ### Результат
 
+<img width="647" height="631" alt="image" src="https://github.com/user-attachments/assets/00428469-558f-4d8b-aa96-2ecac9756004" />
 
 ### Выводы 
 
@@ -157,6 +162,8 @@ print('кортеж -', data_tuple)
 ```
 
 ### Результат
+
+<img width="741" height="607" alt="image" src="https://github.com/user-attachments/assets/c04daae3-d39f-4ff6-9e7f-ec898895de44" />
 
 ### Выводы
 Функция tuple() может принимать список в качестве аргумента для создания картежа.
@@ -183,6 +190,7 @@ print(remove_from_tuple((2, 4, 6, 6, 4 ,2), 9))
 
 ### Результат
 
+<img width="776" height="670" alt="image" src="https://github.com/user-attachments/assets/7609a526-b41f-4ecc-b1ab-925e0736dc2d" />
 
 ### Выводы 
 
@@ -212,6 +220,8 @@ pprint(result)
 ```
 
 ### Результат
+
+<img width="704" height="701" alt="image" src="https://github.com/user-attachments/assets/1730bbe2-24e0-4a90-92ae-c8f6967a5817" />
 
 ### Выводы 
 
@@ -246,6 +256,7 @@ print(my_func(tuple_3, 8))
 
 ### Результат
 
+<img width="832" height="796" alt="image" src="https://github.com/user-attachments/assets/28c6500e-fa16-45a7-a71f-5204695b129e" />
 
 ## Выводы
 
@@ -255,47 +266,71 @@ print(my_func(tuple_3, 8))
 
 ## Самостоятельная работа №5
 
-### Есть магазин, который продает разные товары. Для каждого товара хранятся его название, количество на складе и цена в виде списка кортежей, где каждый кортеж содержит данные о товаре (название, количество, цена). Написать программу, которая  1. выводит на экран все товары с их количеством и ценой.  2. рассчитывает общую стоимость всех товаров в магазине
+### Разработайте программу для управления рекордами игроков. Каждый рекорд представлен в виде кортежа (имя_игрока, количество_очков). Все рекорды хранятся в списке.
+
+Реализуйте следующие функции:
+
+add_score(scores, player, score) - добавляет новый рекорд в список
+
+get_top_players(scores, n=3) - возвращает топ-N игроков по очкам (от большего к меньшему)
+
+get_player_scores(scores, player) - возвращает все результаты указанного игрока
 
 ```python
-"""  
-Есть магазин, который продает разные товары.  
-Для каждого товара хранятся его название, количество на складе и цена  
-в виде списка кортежей, где каждый кортеж содержит данные о товаре (название, количество, цена)  
-  
-Написать программу, которая  
-1. выводит на экран все товары с их количеством и ценой.  
-2. рассчитывает общую стоимость всех товаров в магазине  
-  
-"""  
-  
-inventory = [  
-    ('apples', 50, 1.20),  
-    ('bananas', 30, 0.50),  
-    ('oranges', 20, 0.80),  
-    ('grapes', 40, 2.50),  
-]  
-  
-  
-def display_inventory(inventory):  
-    print("Текущий инвентарь магазина:")  
-    total_value = 0  
-    for item in inventory:  
-        name, count, price = item  
-        total_value += count * price  
-        print(f"Товар: {name}, Количество: {count}, Цена: ${price:.2f}")  
-    print(f"Общая стоимость всех товаров на складе: ${total_value:.2f}")  
-  
-  
-display_inventory(inventory)
+def add_score(scores, player, score):
+    """Добавляет новый рекорд в список."""
+    new_record = (player, score)  # Создаем кортеж
+    scores.append(new_record)
+    return scores
+
+def get_top_players(scores, n=3):
+    """Возвращает топ-N игроков по очкам."""
+    # Сортируем по убыванию очков (второй элемент кортежа)
+    sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
+    return sorted_scores[:n]  # Возвращаем первые N элементов
+
+def get_player_scores(scores, player):
+    """Возвращает все результаты указанного игрока."""
+    # Фильтруем записи по имени игрока
+    player_records = [record for record in scores if record[0] == player]
+    return player_records
+
+# Начальные данные
+records = [("Alice", 150), ("Bob", 200), ("Charlie", 180), ("Alice", 170)]
+
+print("Начальные рекорды:")
+for record in records:
+    print(record)
+
+# Тест 1: Добавление нового рекорда
+print("\n--- Тест 1: Добавление нового рекорда ---")
+records = add_score(records, "David", 190)
+print("После добавления рекорда Дэвида:")
+for record in records:
+    print(record)
+
+# Тест 2: Получение топ-2 игроков
+print("\n--- Тест 2: Получение топ-2 игроков ---")
+top_players = get_top_players(records, 2)
+print("Топ-2 игрока:")
+for player in top_players:
+    print(f"{player[0]}: {player[1]} очков")
+
+# Тест 3: Получение всех результатов Alice
+print("\n--- Тест 3: Получение всех результатов Alice ---")
+alice_scores = get_player_scores(records, "Alice")
+print("Все результаты Alice:")
+for score in alice_scores:
+    print(f"{score[0]}: {score[1]} очков")
 ```
 
 ### Результат
 
+<img width="1163" height="631" alt="image" src="https://github.com/user-attachments/assets/56ed5fb7-bd04-4d60-8094-51c8db85a643" />
 
 ### Выводы 
 
-Написана функция, которая проходится по каждому элементу списка и выводит информацию, которая в нем хранится (название, количество, цена товара), а так же путем перемножения количества товара на его стоимость находит стоимость всех товаров на складе.
+Задача демонстрирует работу с кортежами как с элементами списка и основные операции над ними.
 
 ---
 
