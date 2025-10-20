@@ -25,6 +25,7 @@
 ### Составьте текстовый файл и положите его в одну директорию с программой на Python. Текстовый файл должен состоять минимум из двух строк
 
 ### Результат.
+<img width="532" height="453" alt="image" src="https://github.com/user-attachments/assets/ef040226-7c2c-4211-8175-6aabe3d46771" />
 
 ### Выводы
 
@@ -39,6 +40,8 @@ f.close()
 
 ### Результат.
 
+<img width="535" height="455" alt="image" src="https://github.com/user-attachments/assets/f005d218-5322-4d45-a33f-976122e7db6c" />
+
 ### Выводы
 
 ## Лабораторная работа №3
@@ -52,6 +55,8 @@ f.close()
 
 ### Результат.
 
+<img width="765" height="439" alt="image" src="https://github.com/user-attachments/assets/9aa2a179-f06c-4721-8d7a-7d595cd792aa" />
+
 ### Выводы
 
 ## Лабораторная работа №4
@@ -63,6 +68,8 @@ with open('input.txt') as f:
 ```
 
 ### Результат.
+
+<img width="1024" height="525" alt="image" src="https://github.com/user-attachments/assets/b521ec8b-1c62-4135-ab51-9cf7a58bd910" />
 
 ### Выводы
 
@@ -76,6 +83,8 @@ with open('input.txt') as f:
 ```
 
 ### Результат.
+
+<img width="1022" height="523" alt="image" src="https://github.com/user-attachments/assets/37d1cd5e-25dc-4cb7-83d7-1f6ed8a5ae5f" />
 
 ### Выводы
 
@@ -93,12 +102,13 @@ with open('input.txt', 'r') as f:
 
 ### Результат.
 
+<img width="1025" height="522" alt="image" src="https://github.com/user-attachments/assets/4e359098-25fc-4781-9fcb-92b3aa344493" />
+
 ### Выводы
 
 ## Лабораторная работа №7
 ### Напишите программу, которая перепишет всю информацию, которая была у вас в файле до этого, например напишет любые данные из произвольно вами составленного списка. Также не забудьте проверить что измененная вами информация сохранилась в файле.
 
-lab47.py:
 ```python
 lines = ['one', 'two', 'three']
 with open('input.txt', 'w') as f:
@@ -109,6 +119,8 @@ with open('input.txt', 'w') as f:
 
 ### Результат.
 
+<img width="1362" height="632" alt="image" src="https://github.com/user-attachments/assets/a879419c-c6b0-4a1c-a129-3ec2481f17dd" />
+
 ### Выводы
 
 ## Лабораторная работа №8
@@ -116,8 +128,6 @@ with open('input.txt', 'w') as f:
 
 ```python
 import os
-
-
 def print_docs(directory):
     all_files = os.walk(directory)
     for catalog in all_files:
@@ -125,12 +135,12 @@ def print_docs(directory):
     print(f'Директории: {", ".join([folder for folder in catalog[1]])}')
     print(f'Файлы: {", ".join([file for file in catalog[2]])}')
     print('-' * 40)
-
-
-print_docs('/Users/Andrey/Downloads')
+print_docs('C:/Users/NickYcH/Desktop')
 ```
 
 ### Результат.
+
+<img width="1284" height="651" alt="image" src="https://github.com/user-attachments/assets/d576c718-2a9e-4927-9a99-ae08bc05af90" />
 
 ### Выводы
 
@@ -167,6 +177,8 @@ print(longest_words('input.txt'))
 
 ### Результат.
 
+<img width="1066" height="661" alt="image" src="https://github.com/user-attachments/assets/10d25139-460a-4604-aa80-a2796602de27" />
+
 ### Выводы
 
 ## Лабораторная работа №10
@@ -190,6 +202,8 @@ with open('rows_300.csv', 'w', encoding='utf-8', newline='') as f:
 ```
 
 ### Результат.
+
+<img width="1361" height="704" alt="image" src="https://github.com/user-attachments/assets/b8a4f055-bfcd-4542-9770-4d43fc0e7db9" />
 
 ### Выводы
 
