@@ -212,9 +212,11 @@ with open('rows_300.csv', 'w', encoding='utf-8', newline='') as f:
 
 ###Скриншот файла со статьей:
 
+<img width="1903" height="1067" alt="image" src="https://github.com/user-attachments/assets/d2a779d0-bdee-4764-9098-1b665c62e773" />
+
 ###Листинг кода:
 ```python
-with open('sam71input.txt', 'r', encoding='utf-8') as f:
+with open('stat.txt', 'r', encoding='utf-8') as f:
     lines = f.readlines()
     word_count = {}
     for line in lines:
@@ -234,6 +236,8 @@ with open('sam71input.txt', 'r', encoding='utf-8') as f:
 
 ### Результат.
 
+<img width="1364" height="705" alt="image" src="https://github.com/user-attachments/assets/abac4c0a-11c4-4b9d-8a6a-de03496d7b84" />
+
 ### Выводы
 
   
@@ -241,6 +245,8 @@ with open('sam71input.txt', 'r', encoding='utf-8') as f:
 ### У вас появилась потребность в ведении книги расходов, посмотрев все существующие варианты вы пришли к выводу что вас ничего не устраивает и нужно все делать самому. Напишите программу для учета расходов. Программа должна позволять вводить информацию о расходах, сохранять ее в файл и выводить существующие данные в консоль. Ввод информации происходит через консоль. Результатом выполнения задачи будет: скриншот файла с учетом расходов, листинг кода, и вывод в консоль, с демонстрацией работоспособности программы.
 
 ###Скриншот файла с учетом расходов:
+
+<img width="872" height="582" alt="image" src="https://github.com/user-attachments/assets/faef7156-ef87-4849-9c4b-53e54c713677" />
 
 ###Листинг кода:
 ```python
@@ -285,6 +291,7 @@ if __name__ == "__main__":
 ```
 
 ### Результат.
+<img width="1420" height="1434" alt="image" src="https://github.com/user-attachments/assets/dbad17d5-08ef-43e7-bd11-8ef12933e2ee" />
 
 ### Выводы
 
@@ -321,6 +328,8 @@ with open('input.txt', 'r') as f:
 
 ### Результат.
 
+<img width="1207" height="685" alt="image" src="https://github.com/user-attachments/assets/e6399994-69e9-4a66-953a-27ce82161e04" />
+
 ### Выводы
 
   
@@ -346,6 +355,8 @@ print(sentence)
 
 ### Результат.
 
+<img width="1207" height="691" alt="image" src="https://github.com/user-attachments/assets/1eb7ef7d-6327-4ef8-b937-b129eed837a9" />
+
 ### Выводы
 
   
@@ -357,7 +368,7 @@ print(sentence)
 
 ```python
 string = input("Введите текст для поиска: ")
-with open('sam71input.txt', 'r', encoding='utf-8') as file:
+with open('stat.txt', 'r', encoding='utf-8') as file:
     text = file.read()
     text = text.lower()
     count = text.count(string.lower())
@@ -365,6 +376,8 @@ with open('sam71input.txt', 'r', encoding='utf-8') as file:
 ```
 
 ### Результат.
+
+<img width="1123" height="662" alt="image" src="https://github.com/user-attachments/assets/8c088eb6-12ef-45e0-b0ce-6374168d414f" />
 
 ### Выводы
 
